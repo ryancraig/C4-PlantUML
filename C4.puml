@@ -44,10 +44,10 @@ skinparam rectangle<<boundary>> {
 ' ##################################
 
 !definelong LAYOUT_AS_SKETCH
-skinparam backgroundColor #EEEBDC
-skinparam handwritten true
+' skinparam backgroundColor #EEEBDC
+' skinparam handwritten true
 ' skinparam defaultFontName "Comic Sans MS"
-center footer <font color=red><em>Warning: Created for discussion, needs to be validated</em></font>
+center footer <font color=red>Warning: Created for discussion, needs to be validated</font>
 !enddefinelong
 
 !define LAYOUT_TOP_DOWN top to bottom direction
